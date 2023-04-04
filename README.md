@@ -1,4 +1,6 @@
-[![Build Status](https://secure.travis-ci.org/mapbox/shp-write.svg?branch=master)](http://travis-ci.org/mapbox/shp-write)
+Original Repo: https://github.com/mapbox/shp-write
+
+Updated to fix dependecy vulnerabilities. 
 
 # shp-write
 
